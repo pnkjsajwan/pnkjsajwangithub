@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pnkjsajwan.
 - 👀 I’m a Flutter Mobile Application Developer.
 - 🌱 Having expertise with Flutter and Dart Programming.
-- 💞️ I love to share thing on Mobile Application Development and Flutter Magic.
+- 💞️ I love to share things on Mobile Application Development and Flutter Magic.
 - 📫 Reach me at pankz.sajwan@outlook.com and https://www.linkedin.com/in/pankajsajwan/
